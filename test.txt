@@ -1,5 +1,0 @@
-echo 'hhhh3h';
-asdf
-asdfadsf
-asdf
-555555555555555555
