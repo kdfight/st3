@@ -7,8 +7,15 @@
 	[
 		"All Autocomplete",
 		"ColorPick",
+		"ColorPicker",
 		"DocBlockr",
+		"Emmet",
+		"FileDiffs",
+		"Git",
 		"JsFormat",
-		"Package Control"
+		"Package Control",
+		"PHP Companion",
+		"SublimeLinter",
+		"SublimeLinter-php"
 	]
 }
